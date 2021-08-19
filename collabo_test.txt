@@ -1,4 +1,4 @@
 sunaga: 須永恵美子
 ishida:
-kumakura:
+kumakura:変更しますだ
 shinoda:Hello GitHub!
