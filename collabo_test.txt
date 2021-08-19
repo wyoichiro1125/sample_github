@@ -1,4 +1,4 @@
 sunaga:
 ishida:
-kumakura:
+kumakura:変更しますだ
 shinoda:
