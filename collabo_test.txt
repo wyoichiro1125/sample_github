@@ -1,4 +1,4 @@
 sunaga:
 ishida:
 kumakura:
-shinoda:
+shinoda:Hello GitHub!
